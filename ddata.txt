@@ -1,0 +1,5 @@
+// The following schema needed for the hotelSchema;
+name, city, address, distance, photos, description, 
+rating, rooms, minimumPrice, featured
+
+using Create, Update, Delete, Get, GetAll---Http request method.
